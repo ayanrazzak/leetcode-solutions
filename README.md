@@ -33,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayanrazzak/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/ayanrazzak/leetcode-solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
