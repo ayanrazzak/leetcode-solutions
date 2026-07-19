@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ayanrazzak/leetcode-solutions/tree/master/0001-two-sum) |
 | [0704-binary-search](https://github.com/ayanrazzak/leetcode-solutions/tree/master/0704-binary-search) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayanrazzak/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/ayanrazzak/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ayanrazzak/leetcode-solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
