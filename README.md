@@ -22,10 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/ayanrazzak/leetcode-solutions/tree/master/0704-binary-search) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayanrazzak/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/ayanrazzak/leetcode-solutions/tree/master/0704-binary-search) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayanrazzak/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
 |  |
