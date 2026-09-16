@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ayanrazzak/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayanrazzak/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ayanrazzak/leetcode-solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/ayanrazzak/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ayanrazzak/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ayanrazzak/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ayanrazzak/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ayanrazzak/leetcode-solutions/tree/master/0169-majority-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayanrazzak/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |
@@ -65,11 +67,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayanrazzak/leetcode-solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/ayanrazzak/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ayanrazzak/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ayanrazzak/leetcode-solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ayanrazzak/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ayanrazzak/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ayanrazzak/leetcode-solutions/tree/master/0268-missing-number) |
 ## Dynamic Programming
@@ -81,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ayanrazzak/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/ayanrazzak/leetcode-solutions/tree/master/0169-majority-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -91,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/ayanrazzak/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ayanrazzak/leetcode-solutions/tree/master/0268-missing-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ayanrazzak/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
