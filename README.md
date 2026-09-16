@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ayanrazzak/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ayanrazzak/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayanrazzak/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/ayanrazzak/leetcode-solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/ayanrazzak/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ayanrazzak/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/ayanrazzak/leetcode-solutions/tree/master/0704-binary-search) |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/ayanrazzak/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/ayanrazzak/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/ayanrazzak/leetcode-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
