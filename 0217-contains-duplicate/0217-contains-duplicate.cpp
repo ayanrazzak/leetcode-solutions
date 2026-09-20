@@ -6,7 +6,7 @@ public:
         {
             if(seen.find(nums[i]) != seen.end())
             {
-                return true;
+                return true;   
             }
             seen.insert(nums[i]);
         }
